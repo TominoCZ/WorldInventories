@@ -1,0 +1,22 @@
+{
+    "Group": "Morphox",
+    "Name": "WorldBound",
+    "Version": "0.0.1",
+    "Description": "Bind player data to Worlds instead of the Universes",
+    "Authors": [
+        {
+            "Name": "Morphox"
+        }
+    ],
+    "Website": "",
+    "ServerVersion": "*",
+    "Dependencies": {
+        
+    },
+    "OptionalDependencies": {
+        
+    },
+    "DisabledByDefault": false,
+    "Main": "com.morphox.worldbound.WorldBound",
+    "IncludesAssetPack": true
+}
